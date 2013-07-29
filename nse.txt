@@ -1,0 +1,274 @@
+NSE Symbol:Company Name
+SUZLON:Suzlon Energy Limited
+MTNL:Mahanagar Telephone Nigam Limited
+IFCI:IFCI Limited
+JSWENERGY:JSW Energy Limited
+RELINFRA:Reliance Infrastructure Limited
+JPASSOCIAT:Jaiprakash Associates Limited
+ROLTA:Rolta India Limited
+AUROPHARMA:Aurobindo Pharma Limited
+DENABANK:Dena Bank
+ABAN:Aban Offshore Limited
+TATAMTRDVR:Tata Motors Limited
+HEXAWARE:Hexaware Technologies Limited
+RCOM:Reliance Communications Limited
+BANKINDIA:Bank of India
+ARVIND:Arvind Limited
+PTC:PTC India Limited
+JSWSTEEL:JSW Steel Limited
+PATELENG:Patel Engineering Limited
+ORCHIDCHEM:Orchid Chemicals & Pharmaceuticals Limited
+ALBK:Allahabad Bank
+APOLLOTYRE:Apollo Tyres Limited
+UCOBANK:UCO Bank
+HINDALCO:Hindalco Industries Limited
+SESAGOA:Sesa Goa Limited
+PFC:Power Finance Corporation Limited
+SCI:Shipping Corporation Of India Limited
+POLARIS:Polaris Financial Technology Limited
+SOBHA:Sobha Developers Limited
+YESBANK:Yes Bank Limited
+CANBK:Canara Bank
+CENTURYTEX:Century Textiles & Industries Limited
+KTKBANK:The Karnataka Bank Limited
+IDBI:IDBI Bank Limited
+TATASTEEL:Tata Steel Limited
+ORIENTBANK:Oriental Bank of Commerce
+MCLEODRUSS:Mcleod Russel India Limited
+UNIONBANK:Union Bank of India
+SAIL:Steel Authority of India Limited
+IDFC:Infrastructure Development Finance Company Limited
+SYNDIBANK:Syndicate Bank
+SOUTHBANK:The South Indian Bank Limited
+CHAMBLFERT:Chambal Fertilizers & Chemicals Limited
+ANDHRABANK:Andhra Bank
+GUJFLUORO:Gujarat Fluorochemicals Limited
+RAYMOND:Raymond Limited
+NATIONALUM:National Aluminium Company Limited
+AXISBANK:Axis Bank Limited
+ESCORTS:Escorts Limited
+VIJAYABANK:Vijaya Bank
+TVSMOTOR:TVS Motor Company Limited
+TATACOMM:Tata Communications Limited
+CESC:CESC Limited
+MRPL:Mangalore Refinery and Petrochemicals Limited
+SBIN:State Bank of India
+GMDCLTD:Gujarat Mineral Development Corporation Limited
+CENTRALBK:Central Bank of India
+IOB:Indian Overseas Bank
+ASHOKLEY:Ashok Leyland Limited
+INDUSINDBK:IndusInd Bank Limited
+JINDALSAW:Jindal Saw Limited
+HINDZINC:Hindustan Zinc Limited
+MAX:Max India Limited
+BANKBARODA:Bank of Baroda
+PNB:Punjab National Bank
+GESHIP:The Great Eastern Shipping Company Limited
+ICICIBANK:ICICI Bank Limited
+HINDPETRO:Hindustan Petroleum Corporation Limited
+LICHSGFIN:LIC Housing Finance Limited
+NHPC:NHPC Limited
+FEDERALBNK:The Federal Bank Limited
+ACC:ACC Limited
+ONGC:Oil & Natural Gas Corporation Limited
+PIRHEALTH:Piramal Healthcare Limited
+INDIANB:Indian Bank
+IOC:Indian Oil Corporation Limited
+NTPC:NTPC Limited
+MARUTI:Maruti Suzuki India Limited
+TATACHEM:Tata Chemicals Limited
+ABGSHIP:ABG Shipyard Limited
+OIL:Oil India Limited
+CAIRN:Cairn India Limited
+ABIRLANUVO:Aditya Birla Nuvo Limited
+PATNI:Patni Computer Systems Limited
+TECHM:Tech Mahindra Limited
+POWERGRID:Power Grid Corporation of India Limited
+RELIANCE:Reliance Industries Limited
+BAJAJHLDNG:Bajaj Holdings & Investment Limited
+AMBUJACEM:Ambuja Cements Limited
+GRASIM:Grasim Industries Limited
+BPCL:Bharat Petroleum Corporation Limited
+BEML:BEML Limited
+KAJARIACER:Kajaria Ceramics Limited
+KPIT:KPIT Cummins Infosystems Limited
+TORNTPOWER:Torrent Power Limited
+MOIL:MOIL Limited
+RCF:Rashtriya Chemicals and Fertilizers Limited
+VENKEYS:Venky's (India) Limited
+AMRUTANJAN:Amrutanjan Health Care Limited
+KARURVYSYA:Karur Vysya Bank Limited
+NEYVELILIG:Neyveli Lignite Corporation Limited
+DEWANHOUS:Dewan Housing Finance Corporation Limited
+INGVYSYABK:ING Vysya Bank Limited
+JUBILANT:Jubilant Life Sciences Limited
+HSIL:HSIL Limited
+MADRASCEM:Madras Cements Limited
+GICHSGFIN:GIC Housing Finance Limited
+ELDERPHARM:Elder Pharmaceuticals Limited
+JINDALPOLY:Jindal Poly Films Limited
+INDIABULLS:Indiabulls Financial Services Limited
+CORPBANK:Corporation Bank
+USHAMART:Usha Martin Limited
+NOIDATOLL:Noida Toll Bridge Company Limited
+HCL-INSYS:HCL Infosystems Limited
+GSFC:Gujarat State Fertilizers & Chemicals Limited
+MAHABANK:Bank of Maharashtra
+UNITEDBNK:United Bank of India
+PSB:Punjab & Sind Bank
+GEODESIC:Geodesic Limited
+GNFC:Gujarat Narmada Valley Fertilizer Company Limited
+ANANTRAJ:Anant Raj Industries Limited
+L&TFH:L&T Finance Holdings Limited
+GUJALKALI:Gujarat Alkalies and Chemicals Limited
+CEATLTD:CEAT Limited
+JKLAKSHMI:JK Lakshmi Cement Limited
+BHARTISHIP:Bharati Shipyard Limited
+BFUTILITIE:BF Utilities Limited
+HEROMOTOCO:Hero MotoCorp Limited
+BAJAJ-AUTO:Bajaj Auto Limited
+CUMMINSIND:Cummins India Limited
+ENGINERSIN:Engineers India Limited
+BATAINDIA:Bata India Limited
+THERMAX:Thermax Limited
+HDFC:Housing Development Finance Corporation Limited
+NMDC:NMDC Limited
+BHEL:Bharat Heavy Electricals Limited
+DIVISLAB:Divi's Laboratories Limited
+WIPRO:Wipro Limited
+OPTOCIRCUI:Opto Circuits (India) Limited
+IGL:Indraprastha Gas Limited
+EXIDEIND:Exide Industries Limited
+BERGEPAINT:Berger Paints (I) Limited
+COROMANDEL:Coromandel International Limited
+TATAELXSI:Tata Elxsi Limited
+M&M:Mahindra & Mahindra Limited
+ZEEL:Zee Entertainment Enterprises Limited
+BAJAJELEC:Bajaj Electricals Limited
+BIOCON:Biocon Limited
+CIPLA:Cipla Limited
+IPCALAB:IPCA Laboratories Limited
+PETRONET:Petronet LNG Limited
+HAVELLS:Havells India Limited
+MPHASIS:MphasiS Limited
+SRTRANSFIN:Shriram Transport Finance Company Limited
+BHARTIARTL:Bharti Airtel Limited
+GAIL:GAIL (India) Limited
+GSPL:Gujarat State Petronet Limited
+COX&KINGS:Cox & Kings Limited
+BEL:Bharat Electronics Limited
+EIHOTEL:EIH Limited
+ULTRACEMCO:UltraTech Cement Limited
+TUBEINVEST:Tube Investments of India Limited
+TATAPOWER:Tata Power Company Limited
+AMARAJABAT:Amara Raja Batteries Limited
+JPPOWER:Jaiprakash Power Ventures Limited
+STER:Sterlite Industries ( India ) Limited
+RPOWER:Reliance Power Limited
+HINDOILEXP:Hindustan Oil Exploration Company Limited
+INDHOTEL:The Indian Hotels Company Limited
+PRISMCEM:Prism Cement Limited
+FORTIS:Fortis Healthcare (India) Limited
+RELCAPITAL:Reliance Capital Limited
+IDEA:Idea Cellular Limited
+DCB:Development Credit Bank Limited
+STAR:Strides Arcolab Limited
+BALRAMCHIN:Balrampur Chini Mills Limited
+DEEPAKFERT:Deepak Fertilizers and Petrochemicals Corporation Limited
+PVR:PVR Limited
+DHANBANK:Dhanlaxmi Bank Limited
+JSL:Jindal Stainless Limited
+INDIACEM:The India Cements Limited
+BAJAJHIND:Bajaj Hindusthan Limited
+TTML:Tata Teleservices (Maharashtra) Limited
+ABB:ABB Limited
+BAJAJFINSV:Bajaj Finserv Limited
+JUBLFOOD:Jubilant Foodworks Limited
+BOMDYEING:Bombay Dyeing & Mfg Company Limited
+GODREJIND:Godrej Industries Limited
+COALINDIA:Coal India Limited
+BRITANNIA:Britannia Industries Limited
+GLENMARK:Glenmark Pharmaceuticals Limited
+DLF:DLF Limited
+DABUR:Dabur India Limited
+KOTAKBANK:Kotak Mahindra Bank Limited
+RIIL:Reliance Industrial Infrastructure Limited
+TITAN:Titan Industries Limited
+COLPAL:Colgate Palmolive (India) Limited
+ASIANPAINT:Asian Paints Limited
+SUNPHARMA:Sun Pharmaceuticals Industries Limited
+UNIPHOS:United Phosphorus Limited
+HINDUNILVR:Hindustan Unilever Limited
+SIEMENS:Siemens Limited
+TATAGLOBAL:Tata Global Beverages Limited
+MARICO:Marico Limited
+TCS:Tata Consultancy Services Limited
+TTKPRESTIG:TTK Prestige Limited
+MOTHERSUMI:Motherson Sumi Systems Limited
+JINDALSTEL:Jindal Steel & Power Limited
+TATAMOTORS:Tata Motors Limited
+RANBAXY:Ranbaxy Laboratories Limited
+ITC:ITC Limited
+APIL:Alstom Projects India Limited
+LT:Larsen & Toubro Limited
+HCLTECH:HCL Technologies Limited
+CASTROL:Castrol India Limited
+LUPIN:Lupin Limited
+BHARATFORG:Bharat Forge Limited
+HDFCBANK:HDFC Bank Limited
+INFY:Infosys Limited
+DRREDDY:Dr. Reddy's Laboratories Limited
+THOMASCOOK:Thomas Cook (India) Limited
+TATACOFFEE:Tata Coffee Limited
+CROMPGREAV:Crompton Greaves Limited
+NAVNETPUBL:Navneet Publications India Limited
+JAGRAN:Jagran Prakashan Limited
+MAHLIFE:Mahindra Lifespace Developers Limited
+BAJFINANCE:Bajaj Finance Limited
+WHIRLPOOL:Whirlpool of India Limited
+BAJAJCORP:Bajaj Corp Limited
+J&KBANK:The Jammu & Kashmir Bank Limited
+GUJRATGAS:Gujarat Gas Company Limited
+TIMKEN:Timken India Limited
+EMAMILTD:Emami Limited
+CONCOR:Container Corporation of India Limited
+M&MFIN:Mahindra & Mahindra Financial Services Limited
+MRF:MRF Limited
+OFSS:Oracle Financial Services Software Limited
+MERCK:Merck Limited
+BASF:BASF India Limited
+MONSANTO:Monsanto India Limited
+WYETH:Wyeth Limited
+TATAINVEST:Tata Investment Corporation Limited
+ENIL:Entertainment Network (India) Limited
+TATASPONGE:Tata Sponge Iron Limited
+ABBOTINDIA:Abbott India Limited
+CHENNPETRO:Chennai Petroleum Corporation Limited
+JINDALPHOT:Jindal Photo Limited
+PFIZER:Pfizer Limited
+SBT:State Bank of Travancore
+SUNDARMFIN:Sundaram Finance Limited
+SBBJ:State Bank of Bikaner and Jaipur
+BLUEDART:Blue Dart Express Limited
+GILLETTE:Gillette India Limited
+CMC:CMC Limited
+SKFINDIA:SKF India Limited
+EIDPARRY:EID Parry India Limited
+ICRA:ICRA Limited
+GODREJPROP:Godrej Properties Limited
+TORNTPHARM:Torrent Pharmaceuticals Limited
+BAYERCROP:Bayer Cropscience Limited
+OBEROIRLTY:Oberoi Realty Limited
+TRENT:Trent Limited
+PIDILITIND:Pidilite Industries Limited
+EICHERMOT:Eicher Motors Limited
+BOSCHLTD:Bosch Limited
+CRISIL:CRISIL Limited
+GLAXO:GlaxoSmithKline Pharmaceuticals Limited
+GSKCONS:GlaxoSmithKline Consumer Healthcare Limited
+ALFALAVAL:Alfa Laval (India) Limited
+GODREJCP:Godrej Consumer Products Limited
+CADILAHC:Cadila Healthcare Limited
+NESTLEIND:Nestle India Limited
+GOLDBEES:Goldman Sachs Gold Exchange Traded Scheme
+NIFTYBEES:Goldman Sachs Nifty Exchange Traded Scheme
